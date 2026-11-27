@@ -8,5 +8,5 @@ Into cybersecurity, Linux, networks and the web. I like to take things apart to 
 
 - 🌐 [blacktarsec.github.io](https://blacktarsec.github.io)
 - 🛡️ [TryHackMe](https://tryhackme.com/p/Bl4ck74rs3c)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-dima-a5267a452/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/blacktarsec/)
 - 📫 bl4ck74rs3c@gmail.com
